@@ -1,1 +1,1 @@
-# Starbucks-Latte-Index
+# Starbucks Latte Index
