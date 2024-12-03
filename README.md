@@ -7,6 +7,3 @@
         
 &lt;/body&gt;
 &lt;script&gt;
-
-</body>
-</html>
