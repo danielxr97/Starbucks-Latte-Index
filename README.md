@@ -1,7 +1,7 @@
 <h1 style="text-align: center; font-weight: bold;">The Starbucks Latte Index</h1>
 <h1 style="text-align: center; font-size: 12px; font-weight: bold;">By Daniel Rabi and Joseph J. Gonzales</h1>
 
-![Starbucks Pumpkin Spice Latte Recipe](picture.png "Starbucks Pumpkin Spice Latte Recipe")
+![Starbucks Latte](Starbucks Pumpkin Spice Latte Recipe.png "Starbucks Latte")
 
 Have you ever wondered if your dollar is valued the same no matter what country you are in? Have you ever wondered if you actually get your money’s worth when buying goods in other countries?
 
