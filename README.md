@@ -2,7 +2,7 @@
 <h1 style="text-align: center; font-size: 12px; font-weight: bold;">By Daniel Rabi and Joseph J. Gonzales</h1>
 
 <p align="center">
-  <img src="https://github.com/danielxr97/The-Starbucks-Latte-Index/blob/12dd537ddff26a36e2bd966f15954ec45fceec70/Starbucks%20Pumpkin%20Spice%20Latte%20Recipe.jpeg" alt="Description of Image">
+  <img src="Starbucks Pumpkin Spice Latte Recipe.jpeg" alt="Description of Image">
 </p>
 
 Have you ever wondered if your dollar is valued the same no matter what country you are in? Have you ever wondered if you actually get your money’s worth when buying goods in other countries?
