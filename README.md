@@ -1127,9 +1127,9 @@ We then wanted to create a scatter plot to relate Nominal GDP per capita in CAD 
 
 As depicted in the graph above, our analysis revealed a correlation coefficient with an R-value of 0.18716967518, suggesting a weak correlation between the price difference of Starbucks’ latte and a country’s GDP per capita. This finding is significant as it highlights the complexity of economic analysis and the importance of considering various external factors. For instance, political instability in a country often leads to a higher cost of living, thereby increasing the prices of goods. It is worth noting that countries with low GDP often experience political instability simultaneously (Aisen, A., & Veiga, F. J., 2013). Inflation is another factor that can impact the price of a Starbucks latte, with countries having high inflation rates and experiencing higher living costs. 
 
-# 8. External Factors: Human Development Index scores and price differences
+# 8. External Factors: Human Development Index Scores vs. Price Differences
 
-Shifting our focus to another influential external factor, we turn to Human Development Index scores. These scores serve as a comprehensive measure of a country's well-being, gauging its citizens' health, knowledge, and standard of living (World Health Organization, 2024).
+Shifting our focus to another influential external factor, we turn to Human Development Index scores - HDI. These scores serve as a comprehensive measure of a country's well-being, gauging its citizens' health, knowledge, and standard of living (World Health Organization, 2024).
 
 According to the United Nations Development Programme (2020):  
 **Very High:** HDI > 0.800  
