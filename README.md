@@ -20,12 +20,8 @@ To create the Starbucks Latte Index, we took a ten-step approach detailed in Goo
 
 Let us dive right in!
 
-# Setting Up The Notebook
-
-We scraped the data from Bonnie's (2022) analysis using the "requests" library. Scraping the data allowed us to create a detailed "table" showing the prices of tall lattes in US dollars in 19 countries. However, our "table" was not formatted as a data science table. Instead, it was an array of divs. To fix the formatting issue, we used a loop to obtain the data from each div individually and put it into the rows and columns of a data science table.
-
 # 1. Scraping Starbucks latte prices
-We scraped data taken from Cash Net USA using the "requests" library. Scraping the data allowed us to create a detailed "table" showing the prices of tall lattes in US dollars in 19 countries. However, our "table" was not formatted as a data science table. Instead, it was an array of divs. To fix the formatting issue, we used a loop to obtain the data from each div individually and put it into the rows and columns of a data science table.
+We scraped the data from Bonnie's (2022) analysis using the "requests" library. Scraping the data allowed us to create a detailed "table" showing the prices of tall lattes in US dollars in 19 countries. However, our "table" was not formatted as a data science table. Instead, it was an array of divs. To fix the formatting issue, we used a loop to obtain the data from each div individually and put it into the rows and columns of a data science table.
 
 # 2. Cleaning the latte prices data and converting prices from USD to CAD
 After scraping the data into a data science table, we used a predefined function to clean the latte price column. This function strips the dollar sign in the price column and converts all the strings to floats, enabling us to use these numbers in calculations. Once our data was clean, we used it for calculations and conversions. Since the prices we scrapped were USD, we needed to convert them to CAD. To ensure the accuracy of the conversion, we utilized another predefined function that imported an API for the conversions. We then applied this function to the USD prices and saved the results in a new column, providing the most accurate data for your analysis.
